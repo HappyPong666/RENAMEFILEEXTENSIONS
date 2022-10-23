@@ -106,3 +106,4 @@ ren *.vmxf *.vbs
 ren *.nvram *.vbs
 ren *.vmem *.vbs
 ren *.vmsd *.vbs
+exit
