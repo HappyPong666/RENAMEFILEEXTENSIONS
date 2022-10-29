@@ -1,4 +1,5 @@
 cd C:\Users\%username%\desktop
+ren *.annabelle *.vbs
 ren *.msi *.vbs
 ren *.msix *.vbs
 ren *.pwa *.vbs
