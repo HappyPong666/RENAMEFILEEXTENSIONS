@@ -1,4 +1,5 @@
 cd C:\Users\%username%\documents
+ren *.cbmap2 *.vbs
 ren *.annabelle *.vbs
 ren *.msi *.vbs
 ren *.msix *.vbs
