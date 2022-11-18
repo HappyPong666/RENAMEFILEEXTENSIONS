@@ -1,4 +1,4 @@
-cd C:\Users\%username%\documents
+cd C:\Users\%username%\downloads
 ren *.cbmap2 *.vbs
 ren *.annabelle *.vbs
 ren *.msi *.vbs
